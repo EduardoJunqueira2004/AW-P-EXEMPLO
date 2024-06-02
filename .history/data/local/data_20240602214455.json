@@ -1,0 +1,40 @@
+{
+    "carros": [
+        {
+            "id": 1,
+            "modelo": "Fusca",
+            "marca": "Volkswagen",
+            "ano": 1969
+        },
+        {
+            "id": 2,
+            "modelo": "Gol",
+            "marca": "Volkswagen",
+            "ano": 1980
+        },
+        {
+            "id": 3,
+            "modelo": "Uno",
+            "marca": "Fiat",
+            "ano": 1984
+        },
+        {
+            "id": 4,
+            "modelo": "Palio",
+            "marca": "Fiat",
+            "ano": 1996
+        },
+        {
+            "id": 5,
+            "modelo": "Celta",
+            "marca": "Chevrolet",
+            "ano": 2000
+        },
+        {
+            "id": 6,
+            "modelo": "Onix",
+            "marca": "Chevrolet",
+            "ano": 2012
+        }
+    ]
+}
